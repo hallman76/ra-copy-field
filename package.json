@@ -1,0 +1,17 @@
+{
+  "name": "ra-copy-field",
+  "version": "1.0.0",
+  "description": "Add copy icons to react-admin fields to make it easy for users to copy field values",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/hallman76",
+  "license": "MIT",
+
+  "peerDependencies": {
+    "react-admin": ">=4",
+    "@mui/icons-material": "^5.0.1",
+    "@mui/material": "^5.0.2"
+  }
+}
